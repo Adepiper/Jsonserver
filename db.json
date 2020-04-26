@@ -15,5 +15,11 @@
   ],
   "users": [],
   "channels": [],
-  "videos": []
+  "videos": [
+    {
+      "id": 3,
+      "content": "Wow such content!",
+      "username": "zero_cool"
+    }
+  ]
 }
