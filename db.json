@@ -1,25 +1,606 @@
 {
-  "posts": [
+  "users": [
     {
-      "id": 0,
-      "title": "First post!",
-      "content": "My first content!"
+      "id": "108639748327520128653",
+      "firstname": "Adebayo",
+      "lastname": "Oluwatobiloba",
+      "Email": "hardebaryorone@gmail.com",
+      "imageUrl": "https://lh3.googleusercontent.com/a-/AOh14GiKLfgvNeRaP1JrYrKPtfJuYdsHWLMfbOCTWnjl=s96-c"
     }
   ],
-  "comments": [
+  "channels": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "kind": "youtube#channel",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/3ZoivRQDyH-_DQ_kCJmLzxgMcyo\"",
+      "id": "UC29ju8bIPH5as8OGnQzwJyA",
+      "snippet": {
+        "title": "Traversy Media",
+        "description": "Traversy Media features the best online web development and programming tutorials for all of the latest web technologies including Node.js, Angular 2, React.js, PHP, Rails, HTML, CSS and much more",
+        "customUrl": "traversymedia",
+        "publishedAt": "2009-10-30T21:33:14.000Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJy4aoHWxMClOcfkfUlJXUwQ2dLAHh4a0Aib4g=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJy4aoHWxMClOcfkfUlJXUwQ2dLAHh4a0Aib4g=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJy4aoHWxMClOcfkfUlJXUwQ2dLAHh4a0Aib4g=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Traversy Media",
+          "description": "Traversy Media features the best online web development and programming tutorials for all of the latest web technologies including Node.js, Angular 2, React.js, PHP, Rails, HTML, CSS and much more"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "uploads": "UU29ju8bIPH5as8OGnQzwJyA",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      },
+      "statistics": {
+        "viewCount": "93764718",
+        "commentCount": "0",
+        "subscriberCount": "1070000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "783"
+      }
+    },
+    {
+      "kind": "youtube#channel",
+      "etag": "9CWy2nsi-zjHNhMVV-xQENUnN_A",
+      "id": "UCz3-6QUWq5fdPHW0P8Yb-nQ",
+      "snippet": {
+        "title": "Adebayo Oluwatobiloba",
+        "description": "hello",
+        "publishedAt": "2020-04-18T15:05:05Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwHaDFN_Ty6GijbzjknCTojuD6oQ-dOQCkUdQ=s88-c-k-c0xffffffff-no-rj-mo",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwHaDFN_Ty6GijbzjknCTojuD6oQ-dOQCkUdQ=s240-c-k-c0xffffffff-no-rj-mo",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/a/AATXAJwHaDFN_Ty6GijbzjknCTojuD6oQ-dOQCkUdQ=s800-c-k-c0xffffffff-no-rj-mo",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Adebayo Oluwatobiloba",
+          "description": "hello"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "LLz3-6QUWq5fdPHW0P8Yb-nQ",
+          "favorites": "FLz3-6QUWq5fdPHW0P8Yb-nQ",
+          "uploads": "UUz3-6QUWq5fdPHW0P8Yb-nQ",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      },
+      "statistics": {
+        "viewCount": "0",
+        "commentCount": "0",
+        "subscriberCount": "0",
+        "hiddenSubscriberCount": false,
+        "videoCount": "0"
+      }
     }
   ],
-  "users": [],
-  "channels": [],
   "videos": [
     {
-      "id": 3,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-z246HwfzOZ2VIxXACMODqC7jCw\"",
+      "id": "VVUyOWp1OGJJUEg1YXM4T0duUXp3SnlBLkd4XzdHUXRTZHBj",
+      "snippet": {
+        "publishedAt": "2020-04-24T15:34:58.000Z",
+        "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+        "title": "Full Screen Video Background - HTML & CSS",
+        "description": "In this project we will create a full screen video background for a landing page using HTML & CSS\n\nCode:\nhttps://codepen.io/bradtraversy/pen/BaoWWjb\n\n💖 Become a Patron: Show support & get perks!\nhttp://www.patreon.com/traversymedia\n\nWebsite & Udemy Course Links:\nhttps://www.traversymedia.com\n\nFollow Traversy Media:\nhttps://www.twitter.com/traversymedia\nhttps://www.instagram.com/traversymedia\nhttps://www.facebook.com/traversymedia",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gx_7GQtSdpc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gx_7GQtSdpc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gx_7GQtSdpc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Gx_7GQtSdpc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Gx_7GQtSdpc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Traversy Media",
+        "playlistId": "UU29ju8bIPH5as8OGnQzwJyA",
+        "position": 0,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "Gx_7GQtSdpc"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/-PeMUlUwWRy2tzoW7CgiOvd4gNM\"",
+      "id": "VVUyOWp1OGJJUEg1YXM4T0duUXp3SnlBLlZKai1INHdlNzFn",
+      "snippet": {
+        "publishedAt": "2020-04-20T15:53:46.000Z",
+        "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+        "title": "Python In The Browser | Brython Crash Course",
+        "description": "In this video we will manipulate the DOM, use local storage, mke Ajax calls, etc using Python in the browser with Brython.\n\nCode:\nhttps://gist.github.com/bradtraversy/d7cef8a658992e61e9a4ab04ae8e7770\n\n💖 Become a Patron: Show support & get perks!\nhttp://www.patreon.com/traversymedia\n\nWebsite & Udemy Course Links:\nhttps://www.traversymedia.com\n\nFollow Traversy Media:\nhttps://www.twitter.com/traversymedia\nhttps://www.instagram.com/traversymedia\nhttps://www.facebook.com/traversymedia",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VJj-H4we71g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VJj-H4we71g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VJj-H4we71g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VJj-H4we71g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VJj-H4we71g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Traversy Media",
+        "playlistId": "UU29ju8bIPH5as8OGnQzwJyA",
+        "position": 1,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "VJj-H4we71g"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/YkFQvMg8eXvunWGWDJUJKR8T5ek\"",
+      "id": "VVUyOWp1OGJJUEg1YXM4T0duUXp3SnlBLjhyRDlhbVJTT1FZ",
+      "snippet": {
+        "publishedAt": "2020-04-15T13:03:13.000Z",
+        "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+        "title": "Easy Frontend JS Workflow With No Framework",
+        "description": "In this video, we will create a boilerplate for creating frontend applications with vanilla JS with Parcel bundler, babel and sass.\n\nCode:\nhttps://github.com/bradtraversy/vanilla-parcel-boilerplate\n\n💖 Become a Patron: Show support & get perks!\nhttp://www.patreon.com/traversymedia\n\nWebsite & Udemy Course Links:\nhttps://www.traversymedia.com\n\nFollow Traversy Media:\nhttps://www.twitter.com/traversymedia\nhttps://www.instagram.com/traversymedia\nhttps://www.facebook.com/traversymedia",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8rD9amRSOQY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8rD9amRSOQY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8rD9amRSOQY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8rD9amRSOQY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8rD9amRSOQY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Traversy Media",
+        "playlistId": "UU29ju8bIPH5as8OGnQzwJyA",
+        "position": 2,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "8rD9amRSOQY"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/qx_lpiwRisfgODhENp7byE7cmzI\"",
+      "id": "VVUyOWp1OGJJUEg1YXM4T0duUXp3SnlBLkZpR21BSTVlOTFN",
+      "snippet": {
+        "publishedAt": "2020-04-09T18:21:39.000Z",
+        "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+        "title": "React & Tailwind CSS Image Gallery",
+        "description": "In this project we will integrate Tailwind CSS with React and build an image gallery app with the Pixabay API\n\nCode:\nhttps://github.com/bradtraversy/react-tailwind-pixabay-gallery\n\nSmashing Magazine Article:\nhttps://www.smashingmagazine.com/2020/02/tailwindcss-react-project/\n\n💖 Become a Patron: Show support & get perks!\nhttp://www.patreon.com/traversymedia\n\nWebsite & Udemy Course Links:\nhttps://www.traversymedia.com\n\nFollow Traversy Media:\nhttps://www.twitter.com/traversymedia\nhttps://www.instagram.com/traversymedia\nhttps://www.facebook.com/traversymedia",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FiGmAI5e91M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FiGmAI5e91M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FiGmAI5e91M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FiGmAI5e91M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FiGmAI5e91M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Traversy Media",
+        "playlistId": "UU29ju8bIPH5as8OGnQzwJyA",
+        "position": 3,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "FiGmAI5e91M"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/bHqWDM2CTNNgmQWDSv5bzKlzGRM\"",
+      "id": "VVUyOWp1OGJJUEg1YXM4T0duUXp3SnlBLm83ZjRWSUpzNUY0",
+      "snippet": {
+        "publishedAt": "2020-04-06T17:41:26.000Z",
+        "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+        "title": "5 Common Programmer Health Problems & Prevention Tips",
+        "description": "In this video we will look at 5 common health issues the many programmers face along with some tips for prevention\n\n💖 Become a Patron: Show support & get perks!\nhttp://www.patreon.com/traversymedia\n\nWebsite & Udemy Course Links:\nhttps://www.traversymedia.com\n\nFollow Traversy Media:\nhttps://www.twitter.com/traversymedia\nhttps://www.instagram.com/traversymedia\nhttps://www.facebook.com/traversymedia",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o7f4VIJs5F4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o7f4VIJs5F4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o7f4VIJs5F4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/o7f4VIJs5F4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/o7f4VIJs5F4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Traversy Media",
+        "playlistId": "UU29ju8bIPH5as8OGnQzwJyA",
+        "position": 4,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "o7f4VIJs5F4"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/3nOom-PGTW5g1zqS2C1eZxpMev8\"",
+      "id": "VVUyOWp1OGJJUEg1YXM4T0duUXp3SnlBLi02T0FIc2RlMTVF",
+      "snippet": {
+        "publishedAt": "2020-04-03T18:11:50.000Z",
+        "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+        "title": "Node.js CLI For Cryptocurrency Prices",
+        "description": "In this project we will build a CLI (command line interface) for a cryptocurrency price app. We will use Commander.js, Inquirer, configstore and some other modules.\n\nCode:\nhttps://github.com/bradtraversy/coindex-cli\n\n💖 Become a Patron: Show support & get perks!\nhttp://www.patreon.com/traversymedia\n\nWebsite & Udemy Course Links:\nhttps://www.traversymedia.com\n\nFollow Traversy Media:\nhttps://www.twitter.com/traversymedia\nhttps://www.instagram.com/traversymedia\nhttps://www.facebook.com/traversymedia",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-6OAHsde15E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-6OAHsde15E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-6OAHsde15E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-6OAHsde15E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-6OAHsde15E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Traversy Media",
+        "playlistId": "UU29ju8bIPH5as8OGnQzwJyA",
+        "position": 5,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "-6OAHsde15E"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/9kpnhzSFIW7ziKCNxEr6BW69rS4\"",
+      "id": "VVUyOWp1OGJJUEg1YXM4T0duUXp3SnlBLmFBeHQwWjdJWElv",
+      "snippet": {
+        "publishedAt": "2020-03-30T12:04:31.000Z",
+        "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+        "title": "Parallax Landing Page - Rellax.js",
+        "description": "In this video we will create a simple landing page that uses the parallax scrolling effect with the Rellax.js library.\n\nCode:\nhttps://codepen.io/bradtraversy/pen/OJVaEVN\n\n💖 Become a Patron: Show support & get perks!\nhttp://www.patreon.com/traversymedia\n\nWebsite & Udemy Course Links:\nhttps://www.traversymedia.com\n\nFollow Traversy Media:\nhttps://www.twitter.com/traversymedia\nhttps://www.instagram.com/traversymedia\nhttps://www.facebook.com/traversymedia",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aAxt0Z7IXIo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aAxt0Z7IXIo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aAxt0Z7IXIo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/aAxt0Z7IXIo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/aAxt0Z7IXIo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Traversy Media",
+        "playlistId": "UU29ju8bIPH5as8OGnQzwJyA",
+        "position": 6,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "aAxt0Z7IXIo"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/ndPQ6lhTGvgkKDe7qxcnD3BN_RA\"",
+      "id": "VVUyOWp1OGJJUEg1YXM4T0duUXp3SnlBLmpEN0ZuYkk3Nkhn",
+      "snippet": {
+        "publishedAt": "2020-03-24T11:58:57.000Z",
+        "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+        "title": "Realtime Chat With Users & Rooms - Socket.io, Node & Express",
+        "description": "In this project we will build a chat app using Node, express & websockets in under 60 minutes\n\nCode:\nhttps://github.com/bradtraversy/chatcord\n\n💖 Become a Patron: Show support & get perks!\nhttp://www.patreon.com/traversymedia\n\nWebsite & Udemy Course Links:\nhttps://www.traversymedia.com\n\nFollow Traversy Media:\nhttps://www.twitter.com/traversymedia\nhttps://www.instagram.com/traversymedia\nhttps://www.facebook.com/traversymedia",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jD7FnbI76Hg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jD7FnbI76Hg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jD7FnbI76Hg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jD7FnbI76Hg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jD7FnbI76Hg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Traversy Media",
+        "playlistId": "UU29ju8bIPH5as8OGnQzwJyA",
+        "position": 7,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "jD7FnbI76Hg"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/R1MfVVywFSdhTPjzil-4gInlPoA\"",
+      "id": "VVUyOWp1OGJJUEg1YXM4T0duUXp3SnlBLnBhakxQa2gyQm9V",
+      "snippet": {
+        "publishedAt": "2020-03-19T17:26:43.000Z",
+        "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+        "title": "Productivity Over Panic",
+        "description": "Your first priority should be the safety and health of you and your family, but once that is setttled, there is no reason to stop being productive.\n\n💖 Become a Patron: Show support & get perks!\nhttp://www.patreon.com/traversymedia\n\nWebsite & Udemy Course Links:\nhttps://www.traversymedia.com\n\nFollow Traversy Media:\nhttps://www.twitter.com/traversymedia\nhttps://www.instagram.com/traversymedia\nhttps://www.facebook.com/traversymedia",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pajLPkh2BoU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pajLPkh2BoU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pajLPkh2BoU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pajLPkh2BoU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pajLPkh2BoU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Traversy Media",
+        "playlistId": "UU29ju8bIPH5as8OGnQzwJyA",
+        "position": 8,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pajLPkh2BoU"
+        }
+      }
+    },
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"nxOHAKTVB7baOKsQgTtJIyGxcs8/GY3gfqmi4FhR51hhw6ODVh5cx58\"",
+      "id": "VVUyOWp1OGJJUEg1YXM4T0duUXp3SnlBLlBDV2FGTHkzVlVv",
+      "snippet": {
+        "publishedAt": "2020-03-17T16:08:57.000Z",
+        "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+        "title": "Web Components Crash Course",
+        "description": "This is an introductory crash course on web components including custom elements, shadow DOM and HTML templates.\n\nCode:\nhttps://codepen.io/bradtraversy/pen/wvaXKoK\n\n💖 Become a Patron: Show support & get perks!\nhttp://www.patreon.com/traversymedia\n\nWebsite & Udemy Course Links:\nhttps://www.traversymedia.com\n\nFollow Traversy Media:\nhttps://www.twitter.com/traversymedia\nhttps://www.instagram.com/traversymedia\nhttps://www.facebook.com/traversymedia",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PCWaFLy3VUo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PCWaFLy3VUo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PCWaFLy3VUo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PCWaFLy3VUo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PCWaFLy3VUo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Traversy Media",
+        "playlistId": "UU29ju8bIPH5as8OGnQzwJyA",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "PCWaFLy3VUo"
+        }
+      }
+    }
+  ],
+  "unrefinedVideos": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "\"Dn5xIderbhAnUk5TAW0qkFFir0M/Z7CQ_mBEqihyXTNwJUk29u5hfms\"",
+      "id": "VVUyOWp1OGJJUEg1YXM4T0duUXp3SnlBLnBhakxQa2gyQm9V",
+      "snippet": {
+        "publishedAt": "2020-03-19T17:26:43.000Z",
+        "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+        "title": "Productivity Over Panic",
+        "description": "Your first priority should be the safety and health of you and your family, but once that is setttled, there is no reason to stop being productive.\n\n💖 Become a Patron: Show support & get perks!\nhttp://www.patreon.com/traversymedia\n\nWebsite & Udemy Course Links:\nhttps://www.traversymedia.com\n\nFollow Traversy Media:\nhttps://www.twitter.com/traversymedia\nhttps://www.instagram.com/traversymedia\nhttps://www.facebook.com/traversymedia",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pajLPkh2BoU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pajLPkh2BoU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pajLPkh2BoU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pajLPkh2BoU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pajLPkh2BoU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Traversy Media",
+        "playlistId": "UU29ju8bIPH5as8OGnQzwJyA",
+        "position": 9,
+        "resourceId": {
+          "kind": "youtube#video",
+          "videoId": "pajLPkh2BoU"
+        }
+      }
     }
   ]
 }
